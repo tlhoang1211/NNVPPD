@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vernom/Documents/Hust/20201/Programming Languages and Compilers/Scanner/main.c
+stdio.h
+-
+
+/Users/vernom/Documents/Hust/20201/Programming Languages and Compilers/Scanner/scanner.c
+stdio.h
+-
+string.h
+-
+ctype.h
+-
+scanner.h
+/Users/vernom/Documents/Hust/20201/Programming Languages and Compilers/Scanner/scanner.h
+
+/Users/vernom/Documents/Hust/20201/Programming Languages and Compilers/Scanner/scanner.h
+
